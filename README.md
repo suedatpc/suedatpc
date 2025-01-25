@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suedatpc
-- I'm currently pursuing a degree in software engineering at a university and mainly focused on learning C++ programming language as a part of my software engineering degree program.
+- I'm currently pursuing a degree in software engineering at a university and mainly focused on learning Java ad Python programming languages as a part of my software engineering degree program.
 
   
 
